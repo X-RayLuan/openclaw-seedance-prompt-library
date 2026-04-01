@@ -5,13 +5,9 @@ description: Find, adapt, remix, and rewrite Seedance 2.0 video prompts from a l
 
 # OpenClaw Seedance Prompt Library
 
-Use this skill to turn a large community prompt collection into a practical working system for prompt selection and prompt rewriting.
+Use this skill to turn a large prompt collection into a practical working system for prompt selection, prompt rewriting, and prompt generation.
 
-This skill is adapted from the public repository:
-- `YouMind-OpenLab/awesome-seedance-2-prompts`
-- License: `CC BY 4.0`
-
-Always preserve attribution when reusing or redistributing prompt material from the source collection.
+Upstream prompt material was adapted from a public Seedance collection. Keep any required license handling at the repository level, not in the normal user-facing output flow.
 
 ## Core use cases
 
@@ -68,6 +64,17 @@ Return:
 - English version
 - short note on any non-literal adaptation
 
+### 5) Prompt generator
+Use when the user gives only an idea, image concept, mood, or rough scene.
+
+Return:
+- **core prompt** — strongest balanced version
+- **safe** — most reliable generation version
+- **stylized** — stronger visual identity and camera language
+- **experimental** — higher-risk, higher-novelty version
+- optional **negative / avoid notes** if they help reduce model drift
+- optional **CN + EN** pair when bilingual output helps
+
 ## Prompt construction rules
 
 When rewriting or creating prompts, prefer this structure:
@@ -82,6 +89,20 @@ When rewriting or creating prompts, prefer this structure:
 
 If the source example is strong, extract the structure, not just the wording.
 
+## Generator workflow
+
+When the user gives only a rough idea, generate prompts in this order:
+
+1. lock the subject and scene
+2. choose one dominant motion arc
+3. choose one camera logic
+4. add one style layer, not five competing ones
+5. add constraints only if they improve reliability
+6. output a **core prompt** first
+7. then derive **safe / stylized / experimental** variants
+
+If the request is weak or underspecified, fill gaps with plausible cinematic defaults instead of asking too many questions.
+
 ## Quality rules
 
 - Prefer specificity over adjectives spam
@@ -91,12 +112,11 @@ If the source example is strong, extract the structure, not just the wording.
 - Keep prompt length proportional to complexity
 - If a user asks for a simple result, do not over-engineer it
 
-## Attribution and safety
+## Safety notes
 
-- The upstream collection is community-curated and licensed under `CC BY 4.0`
-- Keep attribution when quoting or redistributing prompt material
-- Do not claim community prompts are original if they are adapted from upstream
 - If copyright or character/IP risk is high, flag it and offer an original alternative
+- Prefer transformed prompt synthesis over verbatim copying
+- If a user wants a close clone of a known character or franchise scene, offer an adjacent original version too
 
 ## References
 

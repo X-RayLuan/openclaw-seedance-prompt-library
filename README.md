@@ -4,10 +4,16 @@
 
 # 🎬 OpenClaw Seedance Prompt Library
 
-> Adapted from `YouMind-OpenLab/awesome-seedance-2-prompts` under `CC BY 4.0`.
-> This repository keeps the upstream prompt collection while adding an OpenClaw skill layer (`SKILL.md`) for search, adaptation, bilingual rewriting, and prompt-pack generation.
+OpenClaw adaptation for Seedance prompt search, rewriting, and prompt generation.
 
-## Upstream collection
+Features added here:
+- OpenClaw `SKILL.md` trigger layer
+- prompt rewrite workflow
+- prompt generator workflow
+- bilingual CN/EN adaptation
+- helper search script for mining prompt patterns
+
+## Prompt collection
 
 # 🎬 Awesome Seedance 2.0 Video Prompts
 
