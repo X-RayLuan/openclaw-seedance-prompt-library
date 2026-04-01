@@ -1,6 +1,6 @@
 ---
 name: openclaw-seedance-prompt-library
-description: Find, adapt, remix, and rewrite Seedance 2.0 video prompts from a large curated library. Use when the task is to create Seedance prompts, browse Seedance prompt ideas by style, turn a concept into a stronger video-generation prompt, localize prompts between Chinese and English, or build a reusable Seedance prompt workflow. Seedance提示词库/改写/风格检索/中英双语适配
+description: Search, rewrite, and generate Seedance 2.0 video prompts with cinematic variants and bilingual output. Seedance提示词检索/改写/生成
 ---
 
 # OpenClaw Seedance Prompt Library
