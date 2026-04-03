@@ -59,7 +59,7 @@ export type VideoUrlMap = Record<string, string>;
 export function generateReadme(prompts: ProcessedPrompt[], locale: string = 'en', videoUrls: VideoUrlMap = {}, totalDocs?: number): string {
   const now = new Date().toISOString().split('T')[0];
   const localePrefix = getLocalePrefix(locale);
-  const galleryUrl = `https://youmind.com/${localePrefix}/seedance-2-0-prompts`;
+  const galleryUrl = `https://clawlite.ai/skills/seedance-prompts`;
 
   let md = '';
 
@@ -291,7 +291,7 @@ function generateFeaturedPromptBlock(
     : 'N/A';
   const promptContent = p.translatedContent || p.content;
   const displayImage = p.referenceImages?.[0] || p.mediaImages?.[0] || p.thumbnail;
-  const tryLink = `${galleryUrl}?id=${p.id}`;
+  const tryLink = galleryUrl;
   const videoUrl = videoUrls[String(p.id)];
   const watchVideoLink = `**[${t('watchVideo', locale)}](${tryLink})**`;
 
@@ -343,7 +343,7 @@ function generatePromptBlock(p: import('./cms-client.js').ProcessedPrompt, local
     : '';
   const sourceLine = p.sourceLink ? ` | **${t('source', locale)}:** [Link](${p.sourceLink})` : '';
   const dateLine = p.sourcePublishedAt ? ` | **${t('published', locale)}:** ${formatDate(p.sourcePublishedAt)}` : '';
-  const tryLink = `${galleryUrl}?id=${p.id}`;
+  const tryLink = galleryUrl;
   const promptContent = p.translatedContent || p.content;
   const displayImage = (p.referenceImages?.[0]) || (p.mediaImages?.[0]) || p.thumbnail;
   const imgWidth = isFeatured ? '700' : '600';

@@ -50,7 +50,7 @@ A curated collection of high-quality video generation prompts for ByteDance's Se
 
 </div>
 
-**[👉 Browse all Seedance 2.0 prompts on YouMind](https://youmind.com/en-US/seedance-2-0-prompts)**
+**[👉 Browse all Seedance 2.0 prompts on clawlite](https://clawlite.ai/skills/seedance-prompts)**
 
 Why use our gallery?
 
@@ -118,7 +118,7 @@ A surreal battlefield in the sky: floating rock islands drifting through a thund
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c79a22663860659c3d0d4e2333c7d5ae/thumbnails/thumbnail.jpg" width="700" alt="Surreal Ronin Action Scene">
 </a>
 
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=133)**
+📥 *Click image to download video* | **[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 </div>
 
@@ -128,7 +128,7 @@ A surreal battlefield in the sky: floating rock islands drifting through a thund
 - **Source:** [Twitter Post](https://x.com/Dheepanratnam/status/2021689626092589532)
 - **Published:** February 11, 2026
 
-**[👉 Try it now →](https://youmind.com/en-US/seedance-2-0-prompts?id=133)**
+**[👉 Open in ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 ---
 
@@ -155,7 +155,7 @@ a luxury car transforming into Optimus Prime and battling Godzilla amidst explos
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/60a3ead48dbad79a2d81aecb6f0bfadd/thumbnails/thumbnail.jpg" width="700" alt="Luxury Car Transforming into Optimus Prime Fighting Godzilla in Tokyo">
 </a>
 
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=210)**
+📥 *Click image to download video* | **[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 </div>
 
@@ -165,7 +165,7 @@ a luxury car transforming into Optimus Prime and battling Godzilla amidst explos
 - **Source:** [Twitter Post](https://x.com/HopefulofNFTs/status/2021822131143635160)
 - **Published:** February 12, 2026
 
-**[👉 Try it now →](https://youmind.com/en-US/seedance-2-0-prompts?id=210)**
+**[👉 Open in ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 ---
 
@@ -212,7 +212,7 @@ Special Effects Spectacle: The blue water dragon and the golden lightning instan
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/870c9907c5740c3d98ed2d62328ca83b/thumbnails/thumbnail.jpg" width="700" alt="Live-Action Anime Adaptation: Water vs. Thunder Breathing Duel">
 </a>
 
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=189)**
+📥 *Click image to download video* | **[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 </div>
 
@@ -222,7 +222,7 @@ Special Effects Spectacle: The blue water dragon and the golden lightning instan
 - **Source:** [Twitter Post](https://x.com/johnAGI168/status/2021610292979876208)
 - **Published:** February 11, 2026
 
-**[👉 Try it now →](https://youmind.com/en-US/seedance-2-0-prompts?id=189)**
+**[👉 Open in ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 ---
 
@@ -249,7 +249,7 @@ Use reference video 1 (scene video) to perform character 2's actions (motion cap
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4372b30e7f62d7d7738ed9da31fe5b79/thumbnails/thumbnail.jpg" width="700" alt="Anime Girl Stage Dance with Motion Capture">
 </a>
 
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=406)**
+📥 *Click image to download video* | **[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 </div>
 
@@ -259,7 +259,7 @@ Use reference video 1 (scene video) to perform character 2's actions (motion cap
 - **Source:** [Twitter Post](https://x.com/Jackywine/status/2021534129368768671)
 - **Published:** February 11, 2026
 
-**[👉 Try it now →](https://youmind.com/en-US/seedance-2-0-prompts?id=406)**
+**[👉 Open in ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 ---
 
@@ -286,7 +286,7 @@ Speeder chase across a cliff city (single continuous shot) From a monumental cli
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/54faca096aba72dde1c78c3599882a77/thumbnails/thumbnail.jpg" width="700" alt="Speeder Chase Across a Cliff City (Single Continuous Shot)">
 </a>
 
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=393)**
+📥 *Click image to download video* | **[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 </div>
 
@@ -296,7 +296,7 @@ Speeder chase across a cliff city (single continuous shot) From a monumental cli
 - **Source:** [Twitter Post](https://x.com/umesh_ai/status/2022564055957811600)
 - **Published:** February 14, 2026
 
-**[👉 Try it now →](https://youmind.com/en-US/seedance-2-0-prompts?id=393)**
+**[👉 Open in ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 ---
 
@@ -323,7 +323,7 @@ Sum up the Bollywood Dance in the meme "Distracted Boyfriend" - make sure it's r
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37c67f4e20765b190b651b8e46af66c8/thumbnails/thumbnail.jpg" width="700" alt="Bollywood Dance Distracted Boyfriend Meme Prompt">
 </a>
 
-📥 *Click image to download video* | **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=379)**
+📥 *Click image to download video* | **[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 </div>
 
@@ -333,7 +333,7 @@ Sum up the Bollywood Dance in the meme "Distracted Boyfriend" - make sure it's r
 - **Source:** [Twitter Post](https://x.com/13enZGN_temple/status/2022646748410425685)
 - **Published:** February 14, 2026
 
-**[👉 Try it now →](https://youmind.com/en-US/seedance-2-0-prompts?id=379)**
+**[👉 Open in ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 ---
 
@@ -357,7 +357,7 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/117c029a99def40d6022a9630e9a43bb/thumbnails/thumbnail.jpg" width="600" alt="Raw Mobile Phone Footage of Elderly Woman Playing Basketball Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2423)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [TechHalla](https://x.com/techhalla) | **Source:** [Link](https://x.com/techhalla/status/2039114930461549008) | **Published:** Mar 31, 2026
 
@@ -376,7 +376,7 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d50c04f5311c1c6e90db15879dfbbf9d/thumbnails/thumbnail.jpg" width="600" alt="High-Energy Three-Person Street Dance Video Generation Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2432)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [MiraMusic](https://x.com/MiraMusic_AI) | **Source:** [Link](https://x.com/MiraMusic_AI/status/2039096342749016145) | **Published:** Mar 31, 2026
 
@@ -395,7 +395,7 @@ The firefighter is entering the house, at the 3-second mark the firefighter is w
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d535a559c88c0bb966daf37bac94e42b/thumbnails/thumbnail.jpg" width="600" alt="Firefighter Rescue Cinematic Sequence">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2412)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [AI Tales - Not by Humans](https://x.com/AITalesNBH) | **Source:** [Link](https://x.com/AITalesNBH/status/2039072522650423445) | **Published:** Mar 31, 2026
 
@@ -414,7 +414,7 @@ Man in suit fights in an extreme speed with 100s of extraordinary Ninja assassin
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/72e4b5339c45a4278f08d58f0bc0c313/thumbnails/thumbnail.jpg" width="600" alt="Action Thriller Ninja Fight Scene (i2v)">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2411)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [𝗦𝘆𝗲𝗱 𝗔𝗯𝘂𝘁𝗵𝗮𝗵𝗶𝗿 ∞](https://x.com/abulu8) | **Source:** [Link](https://x.com/abulu8/status/2039049837979545821) | **Published:** Mar 31, 2026
 
@@ -457,7 +457,7 @@ Style: documentary realism, imperfect framing, natural lighting, no visual effec
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8839ec95ce439849a18ada65a6903f24/thumbnails/thumbnail.jpg" width="600" alt="Documentary Realism Car Crash Scene">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2408)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2039043824907935790) | **Published:** Mar 31, 2026
 
@@ -481,7 +481,7 @@ Clear motion direction,
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef635d42932188542115a7e18e1cbd34/thumbnails/thumbnail.jpg" width="600" alt="15-Second Continuous 3D Cartoon Sequence Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2424)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [OscarAI](https://x.com/Artedeingenio) | **Source:** [Link](https://x.com/Artedeingenio/status/2039035812772217201) | **Published:** Mar 31, 2026
 
@@ -500,7 +500,7 @@ THE SUSHI CHEF — Samurai Kitchen Comedy Hook: A sushi chef who treats every fi
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dce585b146ecaf6bb84bee02945f5423/thumbnails/thumbnail.jpg" width="600" alt="Samurai Sushi Chef Comedy Hook Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2422)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2039017983477944713) | **Published:** Mar 31, 2026
 
@@ -519,7 +519,7 @@ English translation of the complete prompt
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8bdc37926c17cc6ebbf29cc1bab33cc6/thumbnails/thumbnail.jpg" width="600" alt="Ultra-Cinematic Time-Freeze Motorcycle Action Scene">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2410)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Riccardo Wolf](https://x.com/WolfRiccardo) | **Source:** [Link](https://x.com/WolfRiccardo/status/2039007253844398317) | **Published:** Mar 31, 2026
 
@@ -538,7 +538,7 @@ Camera glides forward just above a vibrant shallow coral reef teeming with clown
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be559c47691978a932b5c881d753e537/thumbnails/thumbnail.jpg" width="600" alt="Coral Reef and Hammerhead Shark Scene Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2421)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Heather Cooper](https://x.com/HBCoop_) | **Source:** [Link](https://x.com/HBCoop_/status/2039006186050056442) | **Published:** Mar 31, 2026
 
@@ -557,7 +557,7 @@ Overall Style: Fresh and healing, warm and nostalgic, warm green + light blue ma
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e9f16a629c74c5c2dfcf1e090feb4cf8/thumbnails/thumbnail.jpg" width="600" alt="Nostalgic Childhood Memory Video Prompt for Seedance 2.0">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2430)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2038993496225591731) | **Published:** Mar 31, 2026
 
@@ -576,7 +576,7 @@ A woman in [Image 1] is performing a dope hip-hop dance in the location of [Imag
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a08950c4688828521f1dd0421f33c058/thumbnails/thumbnail.jpg" width="600" alt="Music Video Production Prompt for Seedance 2.0">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2434)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Zeto](https://x.com/ZetoGroovin) | **Source:** [Link](https://x.com/ZetoGroovin/status/2038983920986034234) | **Published:** Mar 31, 2026
 
@@ -598,7 +598,7 @@ Visual Punchline: His tiny daughter walks in, picks up the spider bare-handed, p
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8edfac8b26d424ff4870dd83ecc93985/thumbnails/thumbnail.jpg" width="600" alt="Man's Over-the-Top Reaction to a Spider">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2417)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Shine by Nous ✨](https://x.com/Shinebynous) | **Source:** [Link](https://x.com/Shinebynous/status/2038956226508144816) | **Published:** Mar 31, 2026
 
@@ -619,7 +619,7 @@ COLOUR: Deep teal water, golden divine
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/bfd6fdcc333326b4636ef73bb83c066a/thumbnails/thumbnail.jpg" width="600" alt="Moses Parting the Red Sea Biblical Epic Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2425)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2038944218383630483) | **Published:** Mar 31, 2026
 
@@ -638,7 +638,7 @@ Style: Gritty Cine Verité, real footage, 35mm handheld lens with subtle natural
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/23640c1f9255c83b4a1ba96d064396a9/thumbnails/thumbnail.jpg" width="600" alt="Gritty Cine Verité 35mm Handheld Shot Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2420)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [TechHalla](https://x.com/techhalla) | **Source:** [Link](https://x.com/techhalla/status/2038922301966606462) | **Published:** Mar 31, 2026
 
@@ -671,7 +671,7 @@ Photorealistic fur simulation, volumetric rain particles, ray-traced reflections
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d727f453ed47d8f48d4c2571ddc554cd/thumbnails/thumbnail.jpg" width="600" alt="Spirit Tiger vs Void Panther Combat Video Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2407)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2038896604510392508) | **Published:** Mar 31, 2026
 
@@ -690,7 +690,7 @@ Apply a dramatic cinematic style to a football highlight clip Argentina and Braz
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3f5a493e09d8d9200bb7b25d8cdf31ac/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Football Highlight Clip">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2413)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2038887754344645010) | **Published:** Mar 31, 2026
 
@@ -710,7 +710,7 @@ The impossible battle: shepherd boy vs 9-foot giant. One stone. Oil painting tex
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d0c569c66c2871cb89ce95d2a57e6ca9/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Biblical Combat Epic Prompt (David vs. Goliath)">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2426)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2038886438180139303) | **Published:** Mar 31, 2026
 
@@ -737,7 +737,7 @@ Special Controls: Lock the brand aesthetic to Lamborghini's coolness, sharpness,
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6221a102aa45f3bed7ba89c7b78dc130/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Lamborghini Brand Creative Ad Video Generation Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2431)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2038884607064498360) | **Published:** Mar 31, 2026
 
@@ -763,7 +763,7 @@ War-torn urban street. Destroyed buildings, debris everywhere, smoke drifting.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e251ca070c6c63b61a5a565e2752b14d/thumbnails/thumbnail.jpg" width="600" alt="15-Second Continuous War Realism Video Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2427)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [OscarAI](https://x.com/Artedeingenio) | **Source:** [Link](https://x.com/Artedeingenio/status/2038884568674042061) | **Published:** Mar 31, 2026
 
@@ -786,7 +786,7 @@ She dodges bullets with a low slide while rapidly firing both pistols.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f8a0f3c0fb2334c4ada4d8591d1e0c0e/thumbnails/thumbnail.jpg" width="600" alt="Action Sequence Prompt for Video Generation">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2436)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [KnRoco@AI映像クリエイター](https://x.com/roco_kn_roco) | **Source:** [Link](https://x.com/roco_kn_roco/status/2038859403366175073) | **Published:** Mar 31, 2026
 
@@ -813,7 +813,7 @@ Global style: 35mm tungsten film, anamorphic, fine grain, cinematic. Desaturated
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/90bb0e183e1dac0008c30a786b52afdf/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Trailer Style Video Generation">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2433)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [頓花聖太郎｜YAMI](https://x.com/tonka1981jp) | **Source:** [Link](https://x.com/tonka1981jp/status/2038854904899665941) | **Published:** Mar 31, 2026
 
@@ -862,7 +862,7 @@ Cat (gentle, playful tone, final moment): purring sound
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/499011676a46f6221632e1c7af7326c5/thumbnails/thumbnail.jpg" width="600" alt="Cat Master's Tokyo Tower Descent and Rescue">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2415)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [The Anxious Mind](https://x.com/drjoetw) | **Source:** [Link](https://x.com/drjoetw/status/2038847799794819507) | **Published:** Mar 31, 2026
 
@@ -881,7 +881,7 @@ On the floor of a child's room, a miniature girl rides a small skateboard, speed
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/27faacf7abb931a59d9b298c860f25d1/thumbnails/thumbnail.jpg" width="600" alt="Miniature Girl Skateboard Chase Video Prompt for Seedance 2.0">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2429)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [秀才AI](https://x.com/anson7956) | **Source:** [Link](https://x.com/anson7956/status/2038846411253657939) | **Published:** Mar 31, 2026
 
@@ -906,7 +906,7 @@ Final: he raises his hand, forming a blue flame like a miniature black hole. He 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0e29b0a46c6ec8c3252ec06b415c4d12/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Transformation Scene">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2409)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [WasifAI](https://x.com/doctorwasif) | **Source:** [Link](https://x.com/doctorwasif/status/2038846359399506177) | **Published:** Mar 31, 2026
 
@@ -925,7 +925,7 @@ Final: he raises his hand, forming a blue flame like a miniature black hole. He 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ce09339efc4cb3e75daa789ad3a79a3e/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Anime Action Sequence Prompt with Dialogue">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2435)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [妖精アーヤさん](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2038841993229676692) | **Published:** Mar 31, 2026
 
@@ -973,7 +973,7 @@ Dialogue (to camera):
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aaaf8d22e05467aab113e65993f7ea9e/thumbnails/thumbnail.jpg" width="600" alt="Epic Martial Arts Battle Between Cat Master and Rabbits">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2416)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [The Anxious Mind](https://x.com/drjoetw) | **Source:** [Link](https://x.com/drjoetw/status/2038830264235987076) | **Published:** Mar 31, 2026
 
@@ -992,7 +992,7 @@ First-person sprint through a chaotic animal kingdom. Wild wolves chasing me. De
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f6fe44f5405d5c0f868e439468d79fff/thumbnails/thumbnail.jpg" width="600" alt="First-person FPV Chase and Rescue by Cat Pirates">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2414)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [The Anxious Mind](https://x.com/drjoetw) | **Source:** [Link](https://x.com/drjoetw/status/2038811876063318184) | **Published:** Mar 31, 2026
 
@@ -1021,7 +1021,7 @@ Effects: purple energy only
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7730a3ce73a8420eef790521018bf163/thumbnails/thumbnail.jpg" width="600" alt="Action Sequence Prompt for Video Model Comparison">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2437)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Source:** [Link](https://x.com/YaReYaRu30Life/status/2038808519307321816) | **Published:** Mar 31, 2026
 
@@ -1088,7 +1088,7 @@ Freeze frame → sudden glitch zoom → retro punch sound.
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b4550b326743a400eea408cdf396e722/thumbnails/thumbnail.jpg" width="600" alt="Hyper-Stylized Kung Fu Cat Action Sequence">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2419)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [The Anxious Mind](https://x.com/drjoetw) | **Source:** [Link](https://x.com/drjoetw/status/2038804457862168684) | **Published:** Mar 31, 2026
 
@@ -1113,7 +1113,7 @@ wide-angle lens, cinematic 8K, natural
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a23c219cf7db19e147287a79878c4d88/thumbnails/thumbnail.jpg" width="600" alt="FPV drone shot through Tokyo">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2428)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Automator](https://x.com/AutomatorLab) | **Source:** [Link](https://x.com/AutomatorLab/status/2038788352389120471) | **Published:** Mar 31, 2026
 
@@ -1132,7 +1132,7 @@ CHARACTER REFERENCE Imagen1= warrior's face. Imagen2 = red robotic armor referen
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/103b701a4ec01fad0e75b2f69e14a2a5/thumbnails/thumbnail.jpg" width="600" alt="Sci-Fi Warrior Combat Sequence">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2418)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [zdhpeter](https://x.com/peter6759) | **Source:** [Link](https://x.com/peter6759/status/2038779861863666072) | **Published:** Mar 31, 2026
 
@@ -1157,7 +1157,7 @@ Dark arid
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/198ee7e666509378d8752e63717b66cd/thumbnails/thumbnail.jpg" width="600" alt="Mysterious Royal Warrior Character and Environment Settings">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2361)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [MayorkingAI](https://x.com/MayorKingAI) | **Source:** [Link](https://x.com/MayorKingAI/status/2038732768088084489) | **Published:** Mar 30, 2026
 
@@ -1178,7 +1178,7 @@ Shot 01 (0:00–2:00): Camera starts at mud level. A forest of heavy, mud-caked
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0b3a78cdc58d506eaf01189324922313/thumbnails/thumbnail.jpg" width="600" alt="World War I Trench Warfare Video Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2362)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2038719090718560293) | **Published:** Mar 30, 2026
 
@@ -1197,7 +1197,7 @@ The FPV drone-style camera starts in total darkness, rapidly advancing inside a 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d5f6ffb4f696cc028b8dbb524ee6b94/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt for FPV Drone Shot Through a Pipe">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2363)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Laeffy](https://x.com/physicalvini) | **Source:** [Link](https://x.com/physicalvini/status/2038717225708757439) | **Published:** Mar 30, 2026
 
@@ -1218,7 +1218,7 @@ Audio: Heavy
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1e0ebfe3e230f8e4fd9e84ba660f0966/thumbnails/thumbnail.jpg" width="600" alt="35mm Handheld Film Aesthetic Video Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2359)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [TechHalla](https://x.com/techhalla) | **Source:** [Link](https://x.com/techhalla/status/2038698497302532105) | **Published:** Mar 30, 2026
 
@@ -1245,7 +1245,7 @@ Rocket wingsuit dive, lightning storm flythrough, extreme speed descent, cinemat
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d5d23e0b4c3cc47172ed4c7da40be55e/thumbnails/thumbnail.jpg" width="600" alt="Rocket Wingsuit Dive Through Storm Canyon (Seedance 2.0)">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2355)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2038681432097271953) | **Published:** Mar 30, 2026
 
@@ -1264,7 +1264,7 @@ A panoramic, level-fixed shot of a desolate gray beach. Mist spreads forward fro
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/91835c42f75618d5c93d88639fa85664/thumbnails/thumbnail.jpg" width="600" alt="Epic Sci-Fi Action Sequence: Bionic Heroine vs. Giant Mecha">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2367)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Changning Liu](https://x.com/ChangningL29508) | **Source:** [Link](https://x.com/ChangningL29508/status/2038675702275551408) | **Published:** Mar 30, 2026
 
@@ -1288,7 +1288,7 @@ Dentist: Tall, thin, wire-frame glasses, surgical mask pulled down casually. Wea
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51de6cd5ec0ea0f22884e732ded25d37/thumbnails/thumbnail.jpg" width="600" alt="Video Prompt for 'The Dentist — Bomb Squad Edition' Comedy Hook">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2364)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2038649493281816899) | **Published:** Mar 30, 2026
 
@@ -1313,7 +1313,7 @@ Final: he stands alone in the rain, chest heaving, axes dripping. The camera slo
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d678ae09ab627bbc4624d26c718b4a2b/thumbnails/thumbnail.jpg" width="600" alt="Badass Berserker Viking Charge">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2358)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2038624810687733847) | **Published:** Mar 30, 2026
 
@@ -1332,7 +1332,7 @@ Full panoramic, level, fixed shot of a desolate gray beach. Mist spreads forward
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/19f4ca5933c81217c1d01504f3f0a0f0/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 Prompt: Gothic Mech Battle on a Desolate Beach">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2366)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2038621625512304933) | **Published:** Mar 30, 2026
 
@@ -1355,7 +1355,7 @@ No music."
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/db1aa9db85c0036cad075ab519237b23/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Close-up of Painting">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2357)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Framer 🇱🇹](https://x.com/Framer_X) | **Source:** [Link](https://x.com/Framer_X/status/2038619716550553842) | **Published:** Mar 30, 2026
 
@@ -1374,7 +1374,7 @@ Core scene: Candlelight dinner at a high-end restaurant, husband presents his wi
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4c3893725abdc1acd2030e6ba0ea0dc9/thumbnails/thumbnail.jpg" width="600" alt="Romantic Proposal Scene Video Prompt for Seedance 2.0">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2365)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [杨清玩AI](https://x.com/yangqing_66) | **Source:** [Link](https://x.com/yangqing_66/status/2038592529764094086) | **Published:** Mar 30, 2026
 
@@ -1403,7 +1403,7 @@ Orbital debris field, zero-gravity leap, rotating space station exterior run, ci
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0511e46608a4592782866df3fe464b6b/thumbnails/thumbnail.jpg" width="600" alt="Zero-G Astronaut Run on Damaged Orbital Station">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2356)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2038534217533960589) | **Published:** Mar 30, 2026
 
@@ -1422,7 +1422,7 @@ A girl standing by a serene lake at sunset, long hair flowing, soft breeze, moun
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e4dbf37b5d9fe15aaafad9c05ace0b66/thumbnails/thumbnail.jpg" width="600" alt="Serene Sunset Lake Scene Video Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2360)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Kalsoom (ghotai )](https://x.com/AIwithGhotai) | **Source:** [Link](https://x.com/AIwithGhotai/status/2038529685139927346) | **Published:** Mar 30, 2026
 
@@ -1442,7 +1442,7 @@ Medium shot, slightly low angle, facing the camera. Bright, warm indoor
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85d1e085a97991cd5c15ac5a841f9642/thumbnails/thumbnail.jpg" width="600" alt="Anime Girl Talking About Pudding">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2325)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [ビームマンＰ ver40](https://x.com/BeamManP) | **Source:** [Link](https://x.com/BeamManP/status/2038496081609413096) | **Published:** Mar 30, 2026
 
@@ -1461,7 +1461,7 @@ The rally truck blasts over the lava crest already at full throttle, all four wh
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/494813ff05c5e4249c98aba5b89b1713/thumbnails/thumbnail.jpg" width="600" alt="Rally Truck on Lava Field">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2307)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Changning Liu](https://x.com/ChangningL29508) | **Source:** [Link](https://x.com/ChangningL29508/status/2038388730227298773) | **Published:** Mar 29, 2026
 
@@ -1504,7 +1504,7 @@ negative_constraints:
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/448c1ade640910e844de254aeb8ecbbf/thumbnails/thumbnail.jpg" width="600" alt="First-Person POV Kitchen Scene with Dialogue">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2295)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Changning Liu](https://x.com/ChangningL29508) | **Source:** [Link](https://x.com/ChangningL29508/status/2038387739503337723) | **Published:** Mar 29, 2026
 
@@ -1557,7 +1557,7 @@ Overall, prioritize ultra-realism, cinematic quality, high-speed straight moveme
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c46cc442f2bfd889254831d27aeba8f/thumbnails/thumbnail.jpg" width="600" alt="High-Speed Cinematic Action Scene with Web-Slinging">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2330)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [おのふみ| 3D×動画生成AI](https://x.com/onofumi_AI) | **Source:** [Link](https://x.com/onofumi_AI/status/2038387144683864381) | **Published:** Mar 29, 2026
 
@@ -1576,7 +1576,7 @@ Continuous single take, camera tilting, rolling, spinning, flying through a colo
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/066c878ede14e56c2e02d8e1713fc427/thumbnails/thumbnail.jpg" width="600" alt="Continuous Single Take Video Prompt for Seedance 2.0">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2308)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Changning Liu](https://x.com/ChangningL29508) | **Source:** [Link](https://x.com/ChangningL29508/status/2038344114597773771) | **Published:** Mar 29, 2026
 
@@ -1595,7 +1595,7 @@ Continuous single take, camera tilting, rolling, spinning, flying through a bust
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3e496ebaa4761017b315f6bcaa66aac/thumbnails/thumbnail.jpg" width="600" alt="Impossible Single-Take Medieval Tavern Tour">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2304)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Changning Liu](https://x.com/ChangningL29508) | **Source:** [Link](https://x.com/ChangningL29508/status/2038343194400923797) | **Published:** Mar 29, 2026
 
@@ -1614,7 +1614,7 @@ Continuous single take, camera tilting, rolling, spinning, flying through a colo
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e5db4531cdd9ee97dccebd608b80dc12/thumbnails/thumbnail.jpg" width="600" alt="Impossible Single-Take Sci-Fi Ship Tour">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2302)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Changning Liu](https://x.com/ChangningL29508) | **Source:** [Link](https://x.com/ChangningL29508/status/2038342697715741068) | **Published:** Mar 29, 2026
 
@@ -1633,7 +1633,7 @@ Continuous single take, camera tilting, rolling, spinning, flying through a dens
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/013974e80d51d053374ff2f857d1b517/thumbnails/thumbnail.jpg" width="600" alt="Impossible Camera Moves in Amazon Rainforest">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2311)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Changning Liu](https://x.com/ChangningL29508) | **Source:** [Link](https://x.com/ChangningL29508/status/2038342216733819347) | **Published:** Mar 29, 2026
 
@@ -1652,7 +1652,7 @@ Rear chase steadicam 2.5 meters behind cheetah locked at 112 km/h through dense 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/22f86aee46deabbf98f70a0f2cc785b6/thumbnails/thumbnail.jpg" width="600" alt="High-Speed Cheetah Chase Cam">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2305)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Changning Liu](https://x.com/ChangningL29508) | **Source:** [Link](https://x.com/ChangningL29508/status/2038331787055878200) | **Published:** Mar 29, 2026
 
@@ -1671,7 +1671,7 @@ Rear chase steadicam 2.5 meters behind cheetah locked at 112 km/h through dense 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/799be9b3f30b81271625cc6a51d3ef4b/thumbnails/thumbnail.jpg" width="600" alt="Street Fighter-Inspired Car Destruction Video Prompt for Seedance 2.0">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2327)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2038308037358727336) | **Published:** Mar 29, 2026
 
@@ -1699,7 +1699,7 @@ STYLE NOTES: Ground level feels claustrophobic and overwhelming. The aerial shot
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/39ca868c9323cfeae8e204bdfdc4e6b8/thumbnails/thumbnail.jpg" width="600" alt="Impossible Camera Move through a Southeast Asian Night Market">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2292)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Changning Liu](https://x.com/ChangningL29508) | **Source:** [Link](https://x.com/ChangningL29508/status/2038291358965022974) | **Published:** Mar 29, 2026
 
@@ -1720,7 +1720,7 @@ SUBJECTS: @[image1], One blonde woman with soft waves, a pale satin nightgown, b
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b3b4fd7ead24efc042d43da1872837dd/thumbnails/thumbnail.jpg" width="600" alt="Music Video Style Pose Acceleration Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2324)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Aimi Kōda](https://x.com/aimikoda) | **Source:** [Link](https://x.com/aimikoda/status/2038285545764254000) | **Published:** Mar 29, 2026
 
@@ -1739,7 +1739,7 @@ A woman in a music video raps the lyrics in Japanese: ‘Oops, I appeared quickl
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01801260c90ca15f64fc068fe22c0847/thumbnails/thumbnail.jpg" width="600" alt="Japanese Rap Music Video Prompt with Reference Images">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2323)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Josh](https://x.com/altphotos_pl) | **Source:** [Link](https://x.com/altphotos_pl/status/2038278373248483762) | **Published:** Mar 29, 2026
 
@@ -1758,7 +1758,7 @@ A funny ad commercial for CapCut, showing a stressed video editor battling monst
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/58f2817090c45f71823b34124318bc18/thumbnails/thumbnail.jpg" width="600" alt="Pixar-Style Commercial for CapCut">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2313)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Source:** [Link](https://x.com/airina_xyz/status/2038269907377238400) | **Published:** Mar 29, 2026
 
@@ -1784,7 +1784,7 @@ no text no subtitles no watermark smooth animation consistent characters
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01a4adc8dc6f1a6143fe66ce842af449/thumbnails/thumbnail.jpg" width="600" alt="Cyberpunk Anime Cinematic Fight Scene Prompt for Seedance 2.0">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2309)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Sara | 사라 Al ✦ 🎥✍️](https://x.com/sara4ai) | **Source:** [Link](https://x.com/sara4ai/status/2038269693320925573) | **Published:** Mar 29, 2026
 
@@ -1803,7 +1803,7 @@ CHARACTER REFERENCE Image1= warrior's face. Image2 = red robotic armor reference
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef8f2e6e044a2f7a91d4fc6bcc9e2cb8/thumbnails/thumbnail.jpg" width="600" alt="Live-Action Sci-Fi Warrior Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2320)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Pablo Prompt](https://x.com/pabloprompt) | **Source:** [Link](https://x.com/pabloprompt/status/2038256226316718294) | **Published:** Mar 29, 2026
 
@@ -1822,7 +1822,7 @@ A stylized cinematic 3D animation set on a nighttime city street with wet reflec
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/080b8674140bd6dd44bf54c1dfb97d43/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Street Magic Video Prompt for Seedance 2.0">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2332)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [KANA](https://x.com/KanaWorks_AI) | **Source:** [Link](https://x.com/KanaWorks_AI/status/2038250467969695882) | **Published:** Mar 29, 2026
 
@@ -1846,7 +1846,7 @@ Clear comedic timing, progressive
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/226192d1a10ad12293b6e4fb62d867f2/thumbnails/thumbnail.jpg" width="600" alt="3D Cartoon Sequence Video Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2322)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [OscarAI](https://x.com/Artedeingenio) | **Source:** [Link](https://x.com/Artedeingenio/status/2038219859201294577) | **Published:** Mar 29, 2026
 
@@ -1865,7 +1865,7 @@ Create an authentic, iPhone-style vertical UGC video (9:16 aspect ratio) with a 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c3254b341a2a5b2a4acd54e97e5cbdfa/thumbnails/thumbnail.jpg" width="600" alt="Authentic UGC Video Generation">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2301)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Raisul Islam](https://x.com/rsraisul_islam) | **Source:** [Link](https://x.com/rsraisul_islam/status/2038217812347691274) | **Published:** Mar 29, 2026
 
@@ -1884,7 +1884,7 @@ A miniature girl on a small skateboard races at high speed just above the floor 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fdc63c35f2979b8ae5819c988b97ab80/thumbnails/thumbnail.jpg" width="600" alt="Miniature Skateboard Chase Scene">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2329)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [おのふみ| 3D×動画生成AI](https://x.com/onofumi_AI) | **Source:** [Link](https://x.com/onofumi_AI/status/2038213681067274555) | **Published:** Mar 29, 2026
 
@@ -1903,7 +1903,7 @@ A massive wall of ocean water rises and freezes mid-collapse above a coastal hig
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/01dce87faf071d9e85df2d6fa59c9752/thumbnails/thumbnail.jpg" width="600" alt="Impossible Frozen Tsunami Shot">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2300)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2038202027705000220) | **Published:** Mar 29, 2026
 
@@ -1925,7 +1925,7 @@ Cut1: Bird’s-eye, slow → burst acceleration, cloth/chains sway, neon
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1ba2983dd78734fa324025dd7876a6a1/thumbnails/thumbnail.jpg" width="600" alt="Cyber Ninja fight in Neon Cyberpunk City">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2333)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Source:** [Link](https://x.com/YaReYaRu30Life/status/2038189457082347902) | **Published:** Mar 29, 2026
 
@@ -1946,7 +1946,7 @@ Shot 01 (0:00–2:00): Camera starts at ankle level. Forest
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/37660ca4044d27aa54ce02e23f84ded3/thumbnails/thumbnail.jpg" width="600" alt="Cinematic 8K Video Prompt for Southeast Asian Night Market">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2319)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2038188999676744137) | **Published:** Mar 29, 2026
 
@@ -1972,7 +1972,7 @@ Scene:
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d65b06fcdfc77d645a154b3eb8006f66/thumbnails/thumbnail.jpg" width="600" alt="Dark Fantasy Action Sequence Video Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2318)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [OscarAI](https://x.com/Artedeingenio) | **Source:** [Link](https://x.com/Artedeingenio/status/2038181391708418341) | **Published:** Mar 29, 2026
 
@@ -2017,7 +2017,7 @@ Master (soft): “You’re ready.”
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/232beefeeef5b92d7888aa54fc2aaaa0/thumbnails/thumbnail.jpg" width="600" alt="Epic Cat Kung Fu Animation Trailer">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2316)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [The Anxious Mind](https://x.com/drjoetw) | **Source:** [Link](https://x.com/drjoetw/status/2038179308749959352) | **Published:** Mar 29, 2026
 
@@ -2036,7 +2036,7 @@ In a spacious sunlit studio, an artist stands before a large canvas, brush in ha
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2d212a3eff967b03167e2d2a42485f70/thumbnails/thumbnail.jpg" width="600" alt="Artist Studio Cinematic Video Prompt for Seedance 2.0">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2310)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Kaan Alper](https://x.com/kaan_alper) | **Source:** [Link](https://x.com/kaan_alper/status/2038178205211783344) | **Published:** Mar 29, 2026
 
@@ -2055,7 +2055,7 @@ An epic boxing match between an orange cat (in red shorts) and a poodle (in blac
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9f19ebba230d0bd550d4c61c43f7b136/thumbnails/thumbnail.jpg" width="600" alt="Epic Boxing Match: Cat vs. Poodle">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2317)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [The Anxious Mind](https://x.com/drjoetw) | **Source:** [Link](https://x.com/drjoetw/status/2038172368494022837) | **Published:** Mar 29, 2026
 
@@ -2074,7 +2074,7 @@ Theme 2: Minimalist Forest Style - The Wizard of Oz in the Green Wilderness, Lov
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed2282298c60104af5fd2cbcc444eadb/thumbnails/thumbnail.jpg" width="600" alt="AI Wedding Video Prompt: Minimalist Forest Style with Light Effects">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2326)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [宇宙知识库分享](https://x.com/Cosmoslucy13) | **Source:** [Link](https://x.com/Cosmoslucy13/status/2038159292566798539) | **Published:** Mar 29, 2026
 
@@ -2093,7 +2093,7 @@ Generate a high-quality, high-energy K-pop style dance MV clip, paying attention
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2d041d1de97879629c7a7e5505f2fb9/thumbnails/thumbnail.jpg" width="600" alt="K-pop Style Dance MV in Tokyo">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2303)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2038158884943110508) | **Published:** Mar 29, 2026
 
@@ -2112,7 +2112,7 @@ Refer to the facial features of the model in @image 1. The model, wearing the ou
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a24eed3d69c52d68adca648a7d06fe1/thumbnails/thumbnail.jpg" width="600" alt="Fashion Sequence with Multiple Outfits and Effects">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2312)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [COLAW](https://x.com/ColawMide) | **Source:** [Link](https://x.com/ColawMide/status/2038154786017611891) | **Published:** Mar 29, 2026
 
@@ -2152,7 +2152,7 @@ Background Music: Gentle, soothing saxophone music in the background to create a
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/35810f0c2a6e76f3f7c43d7dd8b02aa7/thumbnails/thumbnail.jpg" width="600" alt="Cat Ramen Chef ASMR Video Prompt for Seedance 2.0">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2328)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2038136351112200525) | **Published:** Mar 29, 2026
 
@@ -2183,7 +2183,7 @@ Please generate a skiing video based on the provided reference image. The overal
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8de6825a35add2595edd059aa901f409/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Skiing Video Generation">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2294)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Gem Alpha](https://x.com/Gemalpha_88) | **Source:** [Link](https://x.com/Gemalpha_88/status/2038125105562468743) | **Published:** Mar 29, 2026
 
@@ -2202,7 +2202,7 @@ POV shot from a person’s perspective. A large brown and white eagle is frozen 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6406cd2a9cc00439bef6cc86540b08f5/thumbnails/thumbnail.jpg" width="600" alt="POV Eagle Rescue from Ice">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2296)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Changning Liu](https://x.com/ChangningL29508) | **Source:** [Link](https://x.com/ChangningL29508/status/2038107117555720632) | **Published:** Mar 29, 2026
 
@@ -2221,7 +2221,7 @@ A super cute chibi anime cartoon animation in vibrant kawaii Arknights Endfield 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa11265bcadc09b24b4296de105e89e5/thumbnails/thumbnail.jpg" width="600" alt="Kawaii Chibi Animation of Gugugaga and Doro">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2299)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2038101275808829473) | **Published:** Mar 29, 2026
 
@@ -2240,7 +2240,7 @@ Cute and sassy Pixar-inspired animated short of anthropomorphic breakfast items 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4f3efe22085eca768264dab2bb696640/thumbnails/thumbnail.jpg" width="600" alt="Pixar-Inspired Animated Short of Anthropomorphic Breakfast Items">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2293)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Changning Liu](https://x.com/ChangningL29508) | **Source:** [Link](https://x.com/ChangningL29508/status/2038099590512325052) | **Published:** Mar 29, 2026
 
@@ -2259,7 +2259,7 @@ A hyper-realistic cinematic horror sequence set in an abandoned Victorian house 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9e6b17af9e902c3a3bda7c6953362183/thumbnails/thumbnail.jpg" width="600" alt="Hyper-Realistic Cinematic Horror Sequence">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2315)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](https://x.com/navi_Ai2) | **Source:** [Link](https://x.com/navi_Ai2/status/2038093509635555656) | **Published:** Mar 29, 2026
 
@@ -2278,7 +2278,7 @@ A young Japanese woman performs a high-energy K-pop dance routine, spinning grac
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/09d6567d69fcc38e479ef5f9f97cf518/thumbnails/thumbnail.jpg" width="600" alt="K-pop dance routine video prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2335)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Photogenic Weekend](https://x.com/PhotogenicWeekE) | **Source:** [Link](https://x.com/PhotogenicWeekE/status/2038077412383302103) | **Published:** Mar 29, 2026
 
@@ -2297,7 +2297,7 @@ A young Japanese woman performs a high-energy K-pop dance routine, spinning grac
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e1af53d4a8a8cf5713dec4420c223cd5/thumbnails/thumbnail.jpg" width="600" alt="Transforming School Bus Mecha">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2306)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Changning Liu](https://x.com/ChangningL29508) | **Source:** [Link](https://x.com/ChangningL29508/status/2038074355704578418) | **Published:** Mar 29, 2026
 
@@ -2316,7 +2316,7 @@ A young Japanese woman performs a high-energy K-pop dance routine, spinning grac
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c3ed90fa11159d9c409629c01477756/thumbnails/thumbnail.jpg" width="600" alt="Eastern Wuxia Ultimate Showdown">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2297)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Gem Alpha](https://x.com/Gemalpha_88) | **Source:** [Link](https://x.com/Gemalpha_88/status/2038068018304172374) | **Published:** Mar 29, 2026
 
@@ -2351,7 +2351,7 @@ Emotional tone: extreme, relentless, and adrenaline-surging, capturing a despera
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a6bdca94d1ce92fba822adab24159aa1/thumbnails/thumbnail.jpg" width="600" alt="Golden Eagle Escape from Volcanic New York">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2298)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Zara](https://x.com/ZaraIrahh) | **Source:** [Link](https://x.com/ZaraIrahh/status/2038066489786548579) | **Published:** Mar 29, 2026
 
@@ -2374,7 +2374,7 @@ accretion disk vs cold blue-white starfield / 35mm film grain / IMAX realism /
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/83112d1e0587a97d4e179254c6a1aceb/thumbnails/thumbnail.jpg" width="600" alt="Hyperreal Space Cinematography Video Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2321)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Nico Ruarte](https://x.com/nicolasmariar) | **Source:** [Link](https://x.com/nicolasmariar/status/2038060604447993982) | **Published:** Mar 29, 2026
 
@@ -2393,7 +2393,7 @@ A man walks out of the kitchen and goes to the bathroom, happy and singing. [cut
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4ef21f81ec15fad8cbab7eb1b16f46c2/thumbnails/thumbnail.jpg" width="600" alt="Man's Morning Grooming Routine">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2314)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Changning Liu](https://x.com/ChangningL29508) | **Source:** [Link](https://x.com/ChangningL29508/status/2038056272671735861) | **Published:** Mar 29, 2026
 
@@ -2412,7 +2412,7 @@ Action: The muscular fighter , executes a fast Shoryuken uppercut against a toug
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9989a922e7ca6d4ee2280b1c37f2203c/thumbnails/thumbnail.jpg" width="600" alt="Fighting Game Uppercut Sequence from Reference Image">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2208)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2038030096615833963) | **Published:** Mar 28, 2026
 
@@ -2451,7 +2451,7 @@ Style Notes: Grainy 35mm film aesthetic · Warm practical party lighting · Dead
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/666a51de1dd0b3e872a3f82d8149b515/thumbnails/thumbnail.jpg" width="600" alt="Multi-Shot Cinematic Scene: FBI Agent and Alien at a Party">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2204)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [BMX](https://x.com/bmx_ai13) | **Source:** [Link](https://x.com/bmx_ai13/status/2038015021738070250) | **Published:** Mar 28, 2026
 
@@ -2470,7 +2470,7 @@ Full Kamen Rider-style transformation sequence - from human to battle-damaged me
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b8eb49b75a751fad3842f7372f2ff83b/thumbnails/thumbnail.jpg" width="600" alt="Kamen Rider-Style Transformation Sequence">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2202)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [ChrisTheNerv](https://x.com/ChrisTheNerv) | **Source:** [Link](https://x.com/ChrisTheNerv/status/2038013966367223907) | **Published:** Mar 28, 2026
 
@@ -2492,7 +2492,7 @@ Shot 3 : He wildly slaps his
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/750f85b1921743b4f1b203b17d8a0006/thumbnails/thumbnail.jpg" width="600" alt="The Silent Retreat Uproar (Disaster Scene)">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2214)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2038009087057674725) | **Published:** Mar 28, 2026
 
@@ -2534,7 +2534,7 @@ visual_theme: "Dark stormy small town, low-saturation gray-blue tones, film grai
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1ba6872f0070c9aa48625b801ddfc36/thumbnails/thumbnail.jpg" width="600" alt="Dark Stormy Town Action Sequence">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2226)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Emily](https://x.com/IamEmily2050) | **Source:** [Link](https://x.com/IamEmily2050/status/2037990394466636200) | **Published:** Mar 28, 2026
 
@@ -2556,7 +2556,7 @@ PIGEON: Museum Heist A tiny street pigeon in a black turtleneck and beret attemp
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a7de676b068b0d3f55a7240520844db1/thumbnails/thumbnail.jpg" width="600" alt="PIGEON: Museum Heist">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2212)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2037974710768574749) | **Published:** Mar 28, 2026
 
@@ -2575,7 +2575,7 @@ An agile deep-sea explorer propelled by a sleek underwater jet-scooter through a
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f5fb2c35ce5f19035af5c3b2fedadddc/thumbnails/thumbnail.jpg" width="600" alt="Deep-Sea Explorer in a Bio-Luminescent Coral City">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2209)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2037956888516792705) | **Published:** Mar 28, 2026
 
@@ -2594,7 +2594,7 @@ High-energy action sequence: extreme close-up detail following a samurai, ornate
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f7bd446b96fdb2f7b7be28bc8562b75e/thumbnails/thumbnail.jpg" width="600" alt="Samurai Desert Action Sequence Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2192)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Changning Liu](https://x.com/ChangningL29508) | **Source:** [Link](https://x.com/ChangningL29508/status/2037929220710752671) | **Published:** Mar 28, 2026
 
@@ -2613,7 +2613,7 @@ Cinematic 3D Blender-style fantasy animation, ultra-detailed mystical "cradle of
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6fedf5e1cfecc2f6f80baac4a6570afa/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Fantasy Overgrown Ruins Animation">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2196)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2037928793084674170) | **Published:** Mar 28, 2026
 
@@ -2636,7 +2636,7 @@ A swaggering rubber duck in racing goggles pilots a bathtub through a luxurious 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0344f92eda742e19079997e8803dd415/thumbnails/thumbnail.jpg" width="600" alt="DUCK: Formula Splash">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2211)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2037924490181489101) | **Published:** Mar 28, 2026
 
@@ -2655,7 +2655,7 @@ LE – I remember! dear DOCTOR ... that you are still alive BECAUSE I allow it, 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/011c337b6cc1214ef6430f6d1eb78a16/thumbnails/thumbnail.jpg" width="600" alt="Spanish dialogue prompt for video generation">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2334)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [ᅠᅠ𝒯𝘏𝗘ᅠ𝝦𝙍𖦹ꔋ𝝤ꔋ̵𝝪̵𝝦̵𝗘̵!ᅠ](https://x.com/xtheprototype) | **Source:** [Link](https://x.com/xtheprototype/status/2037919374485463291) | **Published:** Mar 28, 2026
 
@@ -2674,7 +2674,7 @@ LE – I remember! dear DOCTOR ... that you are still alive BECAUSE I allow it, 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d43e1071d54bc4b8fca64881299691d5/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Montage Video Prompt for Seedance 2.0">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2218)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2037916129604125172) | **Published:** Mar 28, 2026
 
@@ -2693,7 +2693,7 @@ Theme 1: Cinematic Night Scene Style - Starlight Fantasy City, Falling into the 
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/3c65e541a0bde64ea80577a356dbc1fd/thumbnails/thumbnail.jpg" width="600" alt="Seedance 2.0 AI Wedding Video Prompt: Cinematic Night Scene">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2221)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [宇宙知识库分享](https://x.com/Cosmoslucy13) | **Source:** [Link](https://x.com/Cosmoslucy13/status/2037912095325646998) | **Published:** Mar 28, 2026
 
@@ -2712,7 +2712,7 @@ A rogue data-courier riding a humming anti-gravity hoverboard at breakneck speed
 
 <img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/847d09e9e10eb0c80ca99bcb5b8bfb11/thumbnails/thumbnail.jpg" width="600" alt="Rogue Data-Courier on a Hoverboard in a Cyberpunk Megacity">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=2207)**
+**[🌐 View on ClawLite →](https://clawlite.ai/skills/seedance-prompts)**
 
 **Author:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2037910835268555166) | **Published:** Mar 28, 2026
 
@@ -2727,7 +2727,7 @@ A rogue data-courier riding a humming anti-gravity hoverboard at breakneck speed
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
-**[👉 View all prompts in our Web Gallery](https://youmind.com/en-US/seedance-2-0-prompts)**
+**[👉 View all prompts in our Web Gallery](https://clawlite.ai/skills/seedance-prompts)**
 
 ✨ Beautiful masonry grid layout
 
@@ -2774,7 +2774,7 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 
 <div align="center">
 
-**[🌐 View in Web Gallery](https://youmind.com/en-US/seedance-2-0-prompts)** •
+**[🌐 View in Web Gallery](https://clawlite.ai/skills/seedance-prompts)** •
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
